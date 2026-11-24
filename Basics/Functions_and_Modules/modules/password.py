@@ -3,7 +3,7 @@ import getpass
 while(True):
     password=getpass.getpass(prompt="Enter the password :- ")
     if password=="success":
-        print("Wwellcome to the world of anish ")
+        print("Wellcome to the world of Anish!")
         break
     else:
         print("Incorrect password please try again later")
